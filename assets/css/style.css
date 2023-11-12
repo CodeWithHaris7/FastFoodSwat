@@ -442,10 +442,17 @@ body.active { overflow: hidden; }
 .navbar-link {
   color: var(--eerie-black);
   padding-block: 12px;
+  
 }
 
-.navbar-link:is(:hover, :focus-visible) { color: var(--jet); }
+/* .navbar-link:is(:hover, :focus-visible) { color: #09ff00; } */
+.navbar ul li a:hover{
+	border-bottom: 4px solid #73ff00;
+	transition: 0.2s;
+  color: #73ff00;
+  font-size: x-large;
 
+} 
 
 
 
@@ -630,7 +637,7 @@ body.active { overflow: hidden; }
 .partnership-card { position: relative; }
 
 .partnership-card .card-banner {
-  outline: 3px solid var(--marigold);
+  outline: 3px solid #8a1f1f;
   border-radius: var(--radius-20);
   margin: 7px;
 }
