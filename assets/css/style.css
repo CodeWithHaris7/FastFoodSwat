@@ -5,7 +5,11 @@
 /**
  * copyright c 2023 Team Ultra
  Haris Khan
- Talha khan
+ Talha Khan
+ Haris Aman
+ Faisal Rahman
+ Ijaz Ali
+Sayed Qadar
  */
 
 
@@ -612,6 +616,9 @@ body.active { overflow: hidden; }
 .partnership {
   background-color: var(--jet);
   overflow-x: hidden;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+  border-radius: 30px;
 }
 
 .partnership .section-title {
@@ -623,7 +630,7 @@ body.active { overflow: hidden; }
 .partnership-card { position: relative; }
 
 .partnership-card .card-banner {
-  outline: 7px solid var(--marigold);
+  outline: 3px solid var(--marigold);
   border-radius: var(--radius-20);
   margin: 7px;
 }
