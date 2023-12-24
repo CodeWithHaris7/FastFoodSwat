@@ -2,4 +2,4 @@
 our team project FastFoodSwat
 Copyright (C) 2023 CodeWithHaris
 
-demo =    https://hariskhan75757.github.io/FastFoodSwat/
+demo =    https://codewithharis7.github.io/FastFoodSwat/
